@@ -1,0 +1,46 @@
+# ---- 编译产物 ----
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+*.dll
+*.so
+*.dylib
+a.out
+
+# ---- IDE / 编辑器 ----
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# ---- 构建目录 ----
+build/
+out/
+bin/
+obj/
+cmake-build-*/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ---- 包的体积大户（依赖不提交）----
+node_modules/
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 私人区域（此仓库不使用，保留以防误提交）----
+private/
+*.private.md
+.env
