@@ -36,7 +36,7 @@
 |---|---|---|
 | [`docs/plan`](docs/plan) | 四年路线图、学期计划、周节奏 | [路线图](docs/plan/roadmap-2026-2030.md) · [大一下计划](docs/plan/year1-2026-2027.md) |
 | [`docs/paths`](docs/paths) | 国内（广州/上海）/ 日本 / 欧洲 三条路径的对比与时间线 | [路径对比](docs/paths/README.md) |
-| [`docs/guides`](docs/guides) | 操作手册：Git 怎么用、每周怎么复盘 | [Git 入门](docs/guides/git-basics.md) |
+| [`docs/guides`](docs/guides) | 操作手册：Git 怎么用、每周怎么复盘 | [Git 入门](docs/guides/git-basics.md) · [发布上线](docs/guides/publish-to-github.md) |
 | [`journal`](journal) | 每月一篇学习日志 | [2026-11](journal/2026-11.md) |
 | [`learning`](learning) | 知识笔记 + 手写实现代码 | [C++ 笔记](learning/cpp/README.md) |
 | [`projects`](projects) | 项目档案（目标/设计/技术/复盘） | [项目说明](projects/README.md) |
